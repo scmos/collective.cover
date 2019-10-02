@@ -21,6 +21,7 @@ Test Basic Layout Operations
 
     Create Cover  Title  Description
     Open Layout Tab
+    Sleep    10s
     # empty layout has one column and one row by default
     # TODO: test if there is 1 row and 1 column
     #       this can be done using Xpath Should Match X Times

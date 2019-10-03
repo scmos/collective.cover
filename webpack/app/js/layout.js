@@ -1,7 +1,5 @@
 import jss from './vendor/jss.js';
-
 import CSSClassWidget from './cssclasswidget.js';
-
 
 export default class LayoutView {
   /**
